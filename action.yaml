@@ -1,5 +1,5 @@
 name: NPM CI Check
-description: NPM Continuous Integration check action
+description: NPM Continuous Integration test action
 
 inputs:
   node-version:
