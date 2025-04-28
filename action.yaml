@@ -1,4 +1,4 @@
-name: NPM CI Check
+name: NPM CI Test
 description: NPM Continuous Integration test action
 
 inputs:
